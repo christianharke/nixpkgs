@@ -103,9 +103,6 @@ let
 
       ### Default icon theme
       pkgs.oxygen-icons5
-
-      ### Screen saver
-      pkgs.xscreensaver
     ];
 
   };
